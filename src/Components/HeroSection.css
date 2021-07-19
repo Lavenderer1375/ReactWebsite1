@@ -1,0 +1,116 @@
+@font-face{
+    font-family: Vazir;
+    src: url(../Fonts/Vazir-Regular.ttf);
+}
+
+@font-face{
+    font-family: Vazir;
+    src: url(../Fonts/Vazir-Regular.woff);
+}
+
+@font-face{
+    font-family: Vazir;
+    src: url(../Fonts/Vazir-Regular.woff2);
+}
+
+*{
+    text-orientation: left;
+}
+video{
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    z-index: -1;
+}
+
+.main-container{
+    font-family: Vazir;
+    height: 18rem;
+    background: center center/cover no-repeat;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.2);
+    object-fit: contain;
+    background-color: #dbffdc;
+    /* margin-left: 5rem; */
+    /* margin-right: 5rem; */
+    /* width: 100%; */
+
+}
+/* center center/cover no-repeat */
+.h1{
+    color: black;
+    font-size: 4rem;
+    margin-top: 1rem;
+    font-weight: bolder;
+    margin-bottom: 1rem;
+}
+
+.h2{
+    font-size: 5.2rem;
+}
+.p{
+    color: black;
+    font-size: 1.5rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+h1 {
+    color: black;
+    font-size: 2rem;
+    margin-top: 1rem;
+    font-weight: bolder;
+}
+
+p{
+    padding: 2rem;
+    font-size: 1rem;
+    color: rgb(0, 0, 0);  
+}
+
+
+@media screen and (max-width: 960px) {
+    .main-container > h1{
+        color: black;
+        font-size: 2rem;
+        margin-top: 1rem;
+        font-weight: bolder;
+
+    }
+}
+
+@media screen and (max-width: 768px){
+    .main-container > h1{
+        color: black;
+        font-size: 2rem;
+        margin-top: 1rem;
+        font-weight: bolder;
+    }
+
+    .main-container > p {
+        font-size: 30px;
+    }
+
+    .btn-mobile{
+        display: block;
+        text-decoration: none;
+    }
+
+    .btn{
+        width: 100%;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+

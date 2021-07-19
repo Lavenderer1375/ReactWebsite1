@@ -1,0 +1,60 @@
+@font-face{
+    font-family: Vazir;
+    src: url(../Fonts/Vazir-Regular.ttf);
+}
+
+@font-face{
+    font-family: Vazir;
+    src: url(../Fonts/Vazir-Regular.woff);
+}
+
+@font-face{
+    font-family: Vazir;
+    src: url(../Fonts/Vazir-Regular.woff2);
+}
+
+*{
+    text-orientation: left;
+}
+
+:root{
+    --primery: rgb(165, 42, 42);
+}
+
+.btn{
+    padding: 8px 20px;
+    border-radius: 2px;
+    outline: none;
+    border: none;
+    cursor: pointer;
+}
+
+.btn--primery{
+    background-color: (var(--primery));
+    color: #242424;
+    border: 1px solid (var(--primery));
+}
+
+.btn--outline{
+    background-color: transparent;
+    color: rgb(0, 0, 0);
+    padding: 1rem ;
+    border: 1px solid rgb(118, 19, 131);
+    transition: all 0.3s ease-out;
+}
+
+.btn--medium{
+    padding: 5px 17px;
+    font-size: 20px;
+}
+
+.btn--larg{
+    padding: 10px 20px;
+    font-size: 20px;
+}
+
+.btn--medium:hover, .btn--larg:hover{
+    background-color: rgb(126, 20, 20);
+    color: #26a022;
+    transition: all 0.3s ease-out;
+}
