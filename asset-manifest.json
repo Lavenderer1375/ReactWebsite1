@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/ReactWebsite1/static/css/main.a12df355.chunk.css",
+    "main.js": "/ReactWebsite1/static/js/main.878bd6a5.chunk.js",
+    "main.js.map": "/ReactWebsite1/static/js/main.878bd6a5.chunk.js.map",
+    "runtime-main.js": "/ReactWebsite1/static/js/runtime-main.aba33b9a.js",
+    "runtime-main.js.map": "/ReactWebsite1/static/js/runtime-main.aba33b9a.js.map",
+    "static/js/2.4adef456.chunk.js": "/ReactWebsite1/static/js/2.4adef456.chunk.js",
+    "static/js/2.4adef456.chunk.js.map": "/ReactWebsite1/static/js/2.4adef456.chunk.js.map",
+    "index.html": "/ReactWebsite1/index.html",
+    "static/css/main.a12df355.chunk.css.map": "/ReactWebsite1/static/css/main.a12df355.chunk.css.map",
+    "static/js/2.4adef456.chunk.js.LICENSE.txt": "/ReactWebsite1/static/js/2.4adef456.chunk.js.LICENSE.txt",
+    "static/media/Image-1.7914f7ed.jpeg": "/ReactWebsite1/static/media/Image-1.7914f7ed.jpeg",
+    "static/media/Cards.css": "/ReactWebsite1/static/media/Vazir-Regular.e2ff3865.woff",
+    "static/media/anashidhoseini.6890b82a.jpg": "/ReactWebsite1/static/media/anashidhoseini.6890b82a.jpg",
+    "static/media/annahill.da6b9644.jpg": "/ReactWebsite1/static/media/annahill.da6b9644.jpg",
+    "static/media/cara delavin.153bc38e.jpg": "/ReactWebsite1/static/media/cara delavin.153bc38e.jpg",
+    "static/media/coachella.8b1683a0.jpg": "/ReactWebsite1/static/media/coachella.8b1683a0.jpg",
+    "static/media/dakotajohnson.a7f7c57c.jpg": "/ReactWebsite1/static/media/dakotajohnson.a7f7c57c.jpg",
+    "static/media/dorehami.84498310.jpg": "/ReactWebsite1/static/media/dorehami.84498310.jpg",
+    "static/media/gigihadid.89cd7b48.jpg": "/ReactWebsite1/static/media/gigihadid.89cd7b48.jpg",
+    "static/media/irina-shayk.e27fe2c6.jpg": "/ReactWebsite1/static/media/irina-shayk.e27fe2c6.jpg",
+    "static/media/magezines.278004ed.jpg": "/ReactWebsite1/static/media/magezines.278004ed.jpg",
+    "static/media/neginmirsalehi.1ad97622.jpg": "/ReactWebsite1/static/media/neginmirsalehi.1ad97622.jpg",
+    "static/media/niakim.9c7e448e.jpg": "/ReactWebsite1/static/media/niakim.9c7e448e.jpg",
+    "static/media/nike.e305f5bc.jpg": "/ReactWebsite1/static/media/nike.e305f5bc.jpg",
+    "static/media/parantezi.4f2b3c23.jpg": "/ReactWebsite1/static/media/parantezi.4f2b3c23.jpg",
+    "static/media/rihanna.7e2cc6d3.jpg": "/ReactWebsite1/static/media/rihanna.7e2cc6d3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aba33b9a.js",
+    "static/js/2.4adef456.chunk.js",
+    "static/css/main.a12df355.chunk.css",
+    "static/js/main.878bd6a5.chunk.js"
+  ]
+}
